@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/foot-hut/static/css/main.f855e6bc.css",
+    "main.js": "/foot-hut/static/js/main.7210f460.js",
+    "static/js/453.b1a552df.chunk.js": "/foot-hut/static/js/453.b1a552df.chunk.js",
+    "static/media/2.jpg": "/foot-hut/static/media/2.831182222d9e1c686200.jpg",
+    "static/media/red.jpg": "/foot-hut/static/media/red.b71767af1cea5d7ebae2.jpg",
+    "static/media/1.jpg": "/foot-hut/static/media/1.361eaa202c601f112adf.jpg",
+    "static/media/3.jpg": "/foot-hut/static/media/3.a9234c67f298cb016625.jpg",
+    "static/media/8093056.jpg": "/foot-hut/static/media/8093056.395f687733b4c196b7ab.jpg",
+    "static/media/img.jpg": "/foot-hut/static/media/img.6b255f8fe17d2f92f7ce.jpg",
+    "static/media/immg3.jpg": "/foot-hut/static/media/immg3.75ddee4b2a8469b4bc51.jpg",
+    "static/media/prd1.jpg": "/foot-hut/static/media/prd1.c1b2ca4c4d63897d9ef9.jpg",
+    "static/media/pine green.webp": "/foot-hut/static/media/pine green.62b821475b0c9458f560.webp",
+    "static/media/new.png": "/foot-hut/static/media/new.06e1e14ecbb7d5e476a7.png",
+    "index.html": "/foot-hut/index.html",
+    "main.f855e6bc.css.map": "/foot-hut/static/css/main.f855e6bc.css.map",
+    "main.7210f460.js.map": "/foot-hut/static/js/main.7210f460.js.map",
+    "453.b1a552df.chunk.js.map": "/foot-hut/static/js/453.b1a552df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7210f460.js"
+  ]
+}
