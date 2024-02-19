@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/foot-hut/static/css/main.f855e6bc.css",
-    "main.js": "/foot-hut/static/js/main.7210f460.js",
+    "main.js": "/foot-hut/static/js/main.a9f7391f.js",
     "static/js/453.b1a552df.chunk.js": "/foot-hut/static/js/453.b1a552df.chunk.js",
     "static/media/2.jpg": "/foot-hut/static/media/2.831182222d9e1c686200.jpg",
     "static/media/red.jpg": "/foot-hut/static/media/red.b71767af1cea5d7ebae2.jpg",
@@ -15,11 +15,11 @@
     "static/media/new.png": "/foot-hut/static/media/new.06e1e14ecbb7d5e476a7.png",
     "index.html": "/foot-hut/index.html",
     "main.f855e6bc.css.map": "/foot-hut/static/css/main.f855e6bc.css.map",
-    "main.7210f460.js.map": "/foot-hut/static/js/main.7210f460.js.map",
+    "main.a9f7391f.js.map": "/foot-hut/static/js/main.a9f7391f.js.map",
     "453.b1a552df.chunk.js.map": "/foot-hut/static/js/453.b1a552df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.7210f460.js"
+    "static/js/main.a9f7391f.js"
   ]
 }
