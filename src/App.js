@@ -9,10 +9,9 @@ import Customercare from './Components/Customercare';
 function App() {
   return (
     
-    <><Navbar />
-    
+    <><Navbar />   
     <Carousel />
-    <Shoppingsec/>
+    <Shoppingsec buynow="Buy Now"/>
     <Customercare/>
     </>
       
